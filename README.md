@@ -6,13 +6,11 @@
 ## 说明与声明
 > [!WARNING]
 > **LLM 被用于开发**：本项目初始代码由LLM进行编写，后续经过大量调试、修改与逻辑重构。当前分发版本并非完全由 LLM 编写，但是如果你要Fork，请考虑LLM编码的可读性。
-
 > **开源协议**：本项目基于 GNU General Public License v3.0 (GPLv3) 协议开源。任何分发、修改或衍生项目必须同样遵守 GPLv3 协议并开源。
-
 > **第三方组件声明**：本项目运行时依赖 Google Chromium 浏览器内核（通过 Playwright 自动驱动）。Chromium 本身基于 BSD 等开源协议发布。本项目的 GPLv3 协议仅适用于项目自身源代码，不适用于 Chromium 二进制文件。
 
 ## 依赖与配置
-
+> [!WARNING]
 >**警告**：该README不是最新，请以源代码实现为准，请不要为更新README提交Issue，感谢配合。
 
 ### 环境要求
